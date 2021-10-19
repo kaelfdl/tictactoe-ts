@@ -16,7 +16,7 @@ const style: React.CSSProperties = {
     gridTemplate: "repeat(3, 1fr) / repeat(3, 1fr)",
 };
 
-
+// The Board component will generate and contain the individual squares
 const Board: FC<IProps> = (props) => {
     return (
         <div style={style}>
