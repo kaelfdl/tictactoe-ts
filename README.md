@@ -45,7 +45,7 @@ This project is an implementation of the popular paper-and-pencil game called Ti
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/kaelfdl/repo_name.git
+   git clone https://github.com/kaelfdl/tictactoe-ts.git
    ```
 2. Install NPM packages
    ```sh
